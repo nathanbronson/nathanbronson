@@ -1,6 +1,6 @@
 <h1 align="middle">Nathan Bronson</h1>
         
-<p align="middle"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" href="https://www.linkedin.com/in/nathanbronson" alt="" /> <img align="center" src="https://img.shields.io/badge/Follow_On_GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" href="https://github.com/nathanbronson" alt="" /></p>
+<p align="middle"> <a href="https://www.linkedin.com/in/nathanbronson"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="" /></a> <a href="https://github.com/nathanbronson"><img align="center" src="https://img.shields.io/badge/Follow_On_GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="" /></a></p>
         
 <p align="middle" style="font-size: 12pt;">Combinatorics, Game Theory, and Machine Learning</p>
         
